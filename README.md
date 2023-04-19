@@ -1,5 +1,5 @@
 # TensorAnalysis
-Calculate descriptors (globularity, asphericity, acylindricity, anisotropy), from tensor data extracted using the cpptraj tool.
+Calculate descriptors (globularity, asphericity, acylindricity, anisotropy), from tensor data extracted using the cpptraj tool. Not the most efficient way, but gets the job done.
 
 To use:
 > python tensor.py -i <tensor.dat output>
